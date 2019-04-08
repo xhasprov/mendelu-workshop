@@ -61,6 +61,8 @@ time and prevents manual errors.
   * Select Context (`/`)
 * Test the setup by pushing a new change to your fork
 
+
+
 Bonus: Use `podman run -it <url> /bin/bash` to verify
 
 ## Part 2 - Deploy working application
